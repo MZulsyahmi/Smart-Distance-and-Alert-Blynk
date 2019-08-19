@@ -8,6 +8,7 @@ Know how the potentiometer works and make it control the LED
 ## Ultrasonic Sensor
 ![ultrasonic_sensor](https://user-images.githubusercontent.com/44058064/49787285-3fde7a00-fd61-11e8-83d9-9f3c218abecf.png)
 
+The sensor used is ultrasonic sensor; hc-sr04p, which can be operated with 3.3V supply (for NODEMCU).
 The code to understand the ultrasonic sensor and how it works.
 Using the LED as a trigger to alert the user it in presence of obstacle.
 
